@@ -7,8 +7,8 @@ A spider program that could collect all the enterprises' information in China fr
 
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/12.png)
 
-## Usage
-Just open [qichacha_spider.exe](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/qichacha_spider.exe) and input the requested cookie as [企查查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查查爬虫软件使用指南.pdf) writes.
+## Download and Run
+Just dowanload and open [qichacha_spider.exe](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/qichacha_spider.exe) , and input the requested cookie as [企查查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查查爬虫软件使用指南.pdf) writes.
 
 ## Dependencies
 If you want to run 'qichacha_spider.py' script, you should ensure that your system has these dependencies or libraries installed:
