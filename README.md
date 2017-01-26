@@ -5,7 +5,7 @@ A spider program that could collect all the enterprises' information in China fr
 ## Screenshot
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/33123.png)
 
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/12.png)
+![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/spiderdata.png)
 
 ## Download and Run
 Just download and open [qichacha_spider.exe](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/qichacha_spider.exe) , and input the required cookie as [企查查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查查爬虫软件使用指南.pdf) mentions.
