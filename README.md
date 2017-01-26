@@ -1,6 +1,6 @@
 # EnterpriseInformationSpider
-A spider program that could collect all the enterprises' information in China from '![Qichacha](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/33123.png)' website.<br>
-一个爬取"![企查查](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/33123.png)"网站中所有中国公司基本注册信息的爬虫程序。
+A spider program that could collect all the enterprises' information in China from '![Qichacha](www.qichacha.com)' website.<br>
+一个爬取"![企查查](www.qichacha.com)"网站中所有中国公司基本注册信息的爬虫程序。
 
 ## Screenshot
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/33123.png)
