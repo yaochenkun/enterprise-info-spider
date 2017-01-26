@@ -17,4 +17,4 @@ Before run 'qichacha_spider.py' script, you should ensure that your system has t
 A good way to install these libraries is to firstly install 'pip', and then you can install all the libraries based on pip commands.
 
 ## For More
-If you prefer more detailed information about this spider program, you could have a further look at the file '[企查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查爬虫软件使用指南.pdf)' in this repository.
+If you prefer more detailed information about this spider program, you could have a further look at the file '[企查查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查查爬虫软件使用指南.pdf)' in this repository.
