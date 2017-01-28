@@ -3,7 +3,7 @@ A spider program that could collect all the enterprises' information in China fr
 一个爬取[企查查](http://www.qichacha.com/)网站中所有中国公司基本注册信息的爬虫程序。
 
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/33123.png)
+![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/spiderdata.png)
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/spiderdata.png)
 
 ## Download and Run
