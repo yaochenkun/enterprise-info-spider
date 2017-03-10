@@ -3,9 +3,9 @@ A spider program that could collect all the enterprises' information in China fr
 一个爬取[企查查](http://www.qichacha.com/)网站中所有中国公司基本注册信息的爬虫程序。
 
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/qichacha_usage.png)
+![](http://yaochenkun.cn/wp-content/uploads/2017/01/qichacha_usage.png)
 
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/spiderdata.png)
+![](http://yaochenkun.cn/wp-content/uploads/2017/01/spiderdata.png)
 
 ## Download and Run
 Just download and open [qichacha_spider.exe](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/qichacha_spider.exe) , and input the required cookie as [企查查爬虫软件使用指南.pdf](https://github.com/yaochenkun/EnterpriseInformationSpider/blob/master/企查查爬虫软件使用指南.pdf) mentions.
